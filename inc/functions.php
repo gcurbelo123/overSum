@@ -103,7 +103,7 @@
                         Base of Operations: Xi'an, China (formerly)</br></br>
                         Affiliation: Overwatch (formerly)</br></br>
                      </h2>";
-                echo "<h2>Mei is a scientist who has taken the fight to preserve the environment into her own hands.</h2>";
+                echo "<h2 id = 'info'>Mei is a scientist who has taken the fight to preserve the environment into her own hands.</h2>";
                 break;
             case 11:
                 echo "<h2 id = 'bio'>
