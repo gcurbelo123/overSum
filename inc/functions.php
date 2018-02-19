@@ -247,7 +247,7 @@
                         Base of Operations: Shambali Monastery, Nepal (formerly)</br></br>
                         Affiliation: The Shambali (formerly)</br></br>
                      </h2>";
-                echo "<h2> id = 'info'Zenyatta is an omnic monk who wanders the world in search of spiritual enlightenment. It is said that those who cross his path are never the same again.</h2>";
+                echo "<h2 id = 'info'>Zenyatta is an omnic monk who wanders the world in search of spiritual enlightenment. It is said that those who cross his path are never the same again.</h2>";
                 break;
         }
     }
